@@ -2,8 +2,7 @@
 
 Trabalho   de   Conclusão   de   Curso   (TCC) apresentado  à  Centro  Universitário  Mario Pontes  Jucá –UMJ/FAT,  como  parte  das exigências  do  Curso  de  Engenharia  Civil –EC, para obtenção do título de Bacharelado.
 
-Orientador:Prof. Me. Luiz Carlos Lima Véras
-MACEIÓ – AL 2020
+Orientador: Prof. Me. Luiz Carlos Lima Véras
 
 ## RESUMO
 
